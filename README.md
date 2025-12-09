@@ -57,7 +57,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ## 🔥 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fullmetalldev&theme=react-light&hide_border=true&area=true" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fullmetalldev&theme=react-white&hide_border=true&area=true" /> 
 </div>
 
 
