@@ -42,7 +42,8 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ### **Databases**
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+![Chroma](https://skillicons.dev/icons?i=Chroma)
+![Weaviate](https://skillicons.dev/icons?i=weaviate)
 
 ### **Tools / DevOps**
 ![Git](https://skillicons.dev/icons?i=git)
