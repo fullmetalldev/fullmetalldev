@@ -58,8 +58,8 @@ Building scalable UI, performant apps, and clean front-end architecture.
 
 <div align="center">
   
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=erbol2409&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbol2409&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fullmetalldev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullmetalldev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
