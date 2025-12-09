@@ -54,22 +54,17 @@ Building scalable UI, performant apps, and clean front-end architecture.
 
 ---
 
-## 📊 GitHub Stats (Auto-Updating)
-
-<div align="center">
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fullmetalldev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullmetalldev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Contribution Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fullmetalldev&theme=react-dark&hide_border=true&area=true" />
-</div>
+### Contributions — 2023
+<img src="https://github.com/users/fullmetalldev/contributions?from=2023-01-01&to=2023-12-31" />
+
+### Contributions — 2024
+<img src="https://github.com/users/fullmetalldev/contributions?from=2024-01-01&to=2024-12-31" />
+
+### Contributions — 2025
+<img src="https://github.com/users/fullmetalldev/contributions?from=2025-01-01&to=2025-12-31" />
+
 
 ---
 
