@@ -17,7 +17,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 - Able to build full backend with Node.js + Express  
 - Experience with real-time systems (chats, audio/video calls)  
 - Love clean code, system design, and polished UI/UX  
-- Based in **Houston, TX, USA**
+- Based in **Chicago, IL, USA**
 
 ---
 
@@ -75,7 +75,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 
 ## 🏢 Work Experience (Brief)
 
-- **Edgubilig** – Frontend Developer (Volunteer), USA  
+- **Edgubilig** – Frontend Developer (Volunteer), Houston, TX  
 - **Qomek KZ** – Web/React Developer  
 - **Fortylines IO** – Web Developer  
 - **Freelance / KWORK** – 3 years of successful projects
@@ -93,8 +93,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ## 📫 Contact
 
 📧 **Email:** erbol240904@icloud.com  
-📞 **Phone:** +1 (346) 529-4769  
-📍 **Location:** Stafford, TX, USA  
+📍 **Location:** Chicago, IL, USA  
 
 ---
 
