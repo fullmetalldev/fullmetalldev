@@ -34,6 +34,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ![Sass](https://skillicons.dev/icons?i=sass)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![MaterialUI](https://skillicons.dev/icons?i=mui)
+![Electron](https://skillicons.dev/icons?i=electron)
 
 ### **Backend**
 ![Node](https://skillicons.dev/icons?i=nodejs)
@@ -42,8 +43,6 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ### **Databases**
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Chroma](https://skillicons.dev/icons?i=Chroma)
-![Weaviate](https://skillicons.dev/icons?i=weaviate)
 
 ### **Tools / DevOps**
 ![Git](https://skillicons.dev/icons?i=git)
@@ -52,6 +51,8 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Npm](https://skillicons.dev/icons?i=npm)
+![Sass](https://skillicons.dev/icons?i=sass)
 
 ---
 
