@@ -17,7 +17,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 - Able to build full backend with Node.js + Express  
 - Experience with real-time systems (chats, audio/video calls)  
 - Love clean code, system design, and polished UI/UX  
-- Based in **Chicago, IL, USA**
+- Based in **San Francisco Bay Area, CA, USA**
 
 ---
 
@@ -66,7 +66,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ---
 
 ## 🏢 Work Experience (Brief)
-
+- **Wells Fargo** - Software Engineer 3, San Leandro, CA
 - **Edgubilig** – Frontend Developer (Volunteer), Houston, TX  
 - **Qomek KZ** – Web/React Developer  
 - **Fortylines IO** – Web Developer  
@@ -85,7 +85,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ## 📫 Contact
 
 📧 **Email:** erbol240904@icloud.com  
-📍 **Location:** Chicago, IL, USA  
+📍 **Location:** San Francisco Bay Area, CA, USA  
 
 ---
 
