@@ -17,7 +17,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 - Able to build full backend with Node.js + Express  
 - Experience with real-time systems (chats, audio/video calls)  
 - Love clean code, system design, and polished UI/UX  
-- Based in **San Francisco Bay Area, CA, USA**
+- Based in **San Francisco Bay Area, CA**
 
 ---
 
@@ -85,7 +85,7 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ## 📫 Contact
 
 📧 **Email:** erbol240904@icloud.com  
-📍 **Location:** San Francisco Bay Area, CA, USA  
+📍 **Location:** San Francisco Bay Area, CA  
 
 ---
 
