@@ -7,5 +7,6 @@ Building scalable UI, performant apps, and clean front-end architecture.
 
 ## 📫 Contact
 
+📍 **Job:** Wells Fargo  
 📧 **Email:** erbol240904@icloud.com  
 📍 **Location:** San Francisco Bay Area, CA  
