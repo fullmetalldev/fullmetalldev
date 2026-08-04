@@ -8,5 +8,5 @@ Building scalable UI, performant apps, and clean front-end architecture.
 ## 📫 Contact
 
 📍 **Work:** Wells Fargo  
-📧 **Email:** erbol240904@icloud.com  
+📧 **Email:** info@erbol.dev  
 📍 **Location:** San Francisco Bay Area, CA  
